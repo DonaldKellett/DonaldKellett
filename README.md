@@ -17,7 +17,7 @@ My work experience can be summarized as follows:
   - Areas: Python, FPGA programming
 - BSD Academy (now BSD Education)
   - Duration: August 2016 (01/08/2016-14/08/2016) - 2 weeks
-  - Position: Teaching Assistant
+  - Position: Teaching Assistant (Intern)
   - About: Assisting with teaching duties on HTML5+CSS3+JS
   - Website: https://bsd.education/
   - Areas: Education, Frontend Development
