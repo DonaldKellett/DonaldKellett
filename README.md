@@ -25,10 +25,9 @@ My work experience can be summarized as follows:
 In my spare time, I like to ...
 
 - Contribute to [Fedora test days](https://fedoraproject.org/wiki/QA/Test_Days)
-- Play old, nerdy games (ever heard of [Bookworm Adventures](https://www.rockpapershotgun.com/2020/05/11/bookworm-adventures-has-been-erased-from-the-internet-and-i-want-to-know-why/)?) on my Linux boxes using Wine
-- Solve [Codewars](https://www.codewars.com) Kata every once in a while or so
-- Watch [Rick and Morty](https://www.rickandmorty.com/). I especially _love_ that Evil Morty plot (hint: profile picture ;-). Don't worry, I'm not a Rick in real life (okay maybe half of it ;-)
-- Occasionally babble on about [interactive theorem proving](https://en.wikipedia.org/wiki/Proof_assistant). Ah, the good old days in academia ... ;-)
+- Complete [Codewars](https://www.codewars.com) coding challenges
+- Babble on about interactive theorem proving in [Coq](https://coq.inria.fr)
+- Play discontinued [English word games](https://www.rockpapershotgun.com/2020/05/11/bookworm-adventures-has-been-erased-from-the-internet-and-i-want-to-know-why/)
 
 ... and yeah, that's basically who I am. Feel free to request for my CV for additional information.
 
