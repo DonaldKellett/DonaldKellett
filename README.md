@@ -2,6 +2,7 @@
 
 I'm a Node.js developer who loves working with Linux and FOSS technologies. Don't believe me? I'm a(n) ...
 
+- [OpenJS Node.js Services Developer (JSNSD)](https://www.youracclaim.com/badges/8cb25f58-4d9b-4511-a535-4021ce7c9c2c): valid thru December 2023
 - [OpenJS Node.js Application Developer (JSNAD)](https://www.youracclaim.com/badges/ae2d70bc-0d1f-43e4-b630-943548a3b5ac): valid thru August 2023
 - [Linux Foundation Certified System Administrator (LFCS)](https://www.youracclaim.com/badges/c4937ae9-2fe5-41cf-a054-ad052f78361e): valid thru July 2023
 
