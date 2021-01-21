@@ -6,7 +6,7 @@ I'm a Node.js developer who loves working with Linux and FOSS technologies. Don'
 - [OpenJS Node.js Application Developer (JSNAD)](https://www.youracclaim.com/badges/ae2d70bc-0d1f-43e4-b630-943548a3b5ac): valid thru August 2023
 - [Linux Foundation Certified System Administrator (LFCS)](https://www.youracclaim.com/badges/c4937ae9-2fe5-41cf-a054-ad052f78361e): valid thru July 2023
 
-Since June 2020, I've been using Linux exclusively on my laptops: Fedora on my new (as of November 2020) Lenovo laptop (not the OEM ones, unfortunately) and Ubuntu on my MacBook Air + a 15-year old Sony Vaio. Before that, I've used macOS for 7 years (mid 2013 - mid 2020) and, once upon a time, Windows.
+My current featured project is [Classic Snake Terminal](https://donaldkellett.github.io/csnaketerm) which is implemented with Node.js core APIs and packaged for all mainstream Linux distributions, with alternative installation methods for macOS and Windows.
 
 My work experience can be summarized as follows:
 
@@ -28,7 +28,6 @@ In my spare time, I like to ...
 - Contribute to [Fedora test days](https://fedoraproject.org/wiki/QA/Test_Days)
 - Complete [Codewars](https://www.codewars.com) coding challenges
 - Babble on about interactive theorem proving in [Coq](https://coq.inria.fr)
-- Play discontinued [English word games](https://www.rockpapershotgun.com/2020/05/11/bookworm-adventures-has-been-erased-from-the-internet-and-i-want-to-know-why/)
 
 ... and yeah, that's basically who I am. Feel free to request for my CV for additional information.
 
