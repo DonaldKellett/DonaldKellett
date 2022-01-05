@@ -9,7 +9,14 @@ I perform IT troubleshooting and consulting duties at work, though deep down I a
 
 Feel free to refer to my [LinkedIn](https://www.linkedin.com/in/donaldsebleung/) profile for the full list of professional certifications I have earned.
 
-My work experience can be summarized as follows:
+I have also written a few blog posts on [Dev.to](https://dev.to) on the subject matter, most notably:
+
+- [Introduction to OpenStack with MicroStack](https://dev.to/donaldsebleung/introduction-to-openstack-with-microstack-1f5j)
+- [Introduction to Infrastructure as Code with Terraform and Packer](https://dev.to/donaldsebleung/introduction-to-infrastructure-as-code-with-terraform-and-packer-10cl)
+- [Introduction to Kubernetes with Amazon EKS](https://dev.to/donaldsebleung/introduction-to-kubernetes-with-amazon-eks-1nj6)
+- [Introduction to the AWS CLI](https://dev.to/donaldsebleung/introduction-to-the-aws-cli-e6o)
+
+Here is a list of positions (including internships) I have worked as for at least 1 month over the years:
 
 - China Resources Enterprise Limited
   - Duration: July 2021 to now
@@ -23,12 +30,6 @@ My work experience can be summarized as follows:
   - About: Formal Verification of FPGA Cores For a Physics Experiment
   - Website: https://m-labs.hk
   - Areas: Python, FPGA programming
-- BSD Academy (now BSD Education)
-  - Duration: August 2016 (01/08/2016-14/08/2016) - 2 weeks
-  - Position: Teaching Assistant (Intern)
-  - About: Assisting with teaching duties on HTML5+CSS3+JS
-  - Website: https://bsd.education/
-  - Areas: Education, Frontend Development
 
 My highest level of education attained is a Bachelor's degree in Computer Science and Engineering, having graduated with a **First Class Honors**:
 
