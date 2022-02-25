@@ -1,15 +1,10 @@
 ### Hi there 👋
 
-I perform IT troubleshooting and consulting duties at work, though deep down I am a **cloud, virtualization and open source** enthusiast, as demonstrated by the following certificates:
+I perform IT troubleshooting and consulting duties at work, though deep down I am a **cloud, virtualization and open source** enthusiast, backed by the [ACA Cloud Computing](https://xuecdn2.aliyunedu.net/img_48b78ec5c60e30e5547eb7a3b16d4523.png) certification and 10+ [Clouders](https://edu.alibabacloud.com/certification/clouders) on Alibaba Cloud.
 
-- [Introduction to DevOps: Practices and Tools](https://credentials.edx.org/credentials/2b8f2137548b4d9abe0d4a1c9d6799ec/)
-- [Introduction to Service Mesh with Linkerd](https://courses.edx.org/certificates/0f47aa15aa394de7b9efae516f94b51f)
-- [Microservices, Serverless, OpenShift](https://courses.edx.org/certificates/74e3c18cdfdf4558bd9c79ea25430a20)
-- [Introduction to Containers, Kubernetes, and OpenShift](https://courses.edx.org/certificates/538f7533ef0c49e1be0555c7ccb40de1)
+Feel free to refer to my [LinkedIn](https://www.linkedin.com/in/donaldsebleung/) profile for the full list of professional certifications I have eanred.
 
-Feel free to refer to my [LinkedIn](https://www.linkedin.com/in/donaldsebleung/) profile for the full list of professional certifications I have earned.
-
-I have also written a few blog posts on [Dev.to](https://dev.to) on the subject matter, most notably:
+I have also written a few blog posts on [Dev.to](https://dev.to) related to cloud computing, with AWS as the reference platform:
 
 - [Introduction to OpenStack with MicroStack](https://dev.to/donaldsebleung/introduction-to-openstack-with-microstack-1f5j)
 - [Introduction to Infrastructure as Code with Terraform and Packer](https://dev.to/donaldsebleung/introduction-to-infrastructure-as-code-with-terraform-and-packer-10cl)
