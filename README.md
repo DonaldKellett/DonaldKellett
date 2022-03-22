@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-I perform IT troubleshooting and consulting duties at work, though deep down I am a **cloud, virtualization and open source** enthusiast, backed by the [ACA Cloud Computing](https://xuecdn2.aliyunedu.net/img_48b78ec5c60e30e5547eb7a3b16d4523.png) certification and 10+ [Clouders](https://edu.alibabacloud.com/certification/clouders) on Alibaba Cloud.
+I perform IT troubleshooting and consulting duties at work, though deep down I am a **cloud, virtualization and open source** enthusiast, backed by the following courses and active certifications:
 
-Feel free to refer to my [LinkedIn](https://www.linkedin.com/in/donaldsebleung/) profile for the full list of professional certifications I have eanred.
+- [LFS258: Kubernetes Fundamentals](https://www.credly.com/badges/d9057e25-cba9-428d-9507-13444df7d24c)
+- [ACA Cloud Computing](https://xuecdn2.aliyunedu.net/img_48b78ec5c60e30e5547eb7a3b16d4523.png)
+- [OpenJS Node.js Services Developer (JSNSD)](https://www.credly.com/badges/8cb25f58-4d9b-4511-a535-4021ce7c9c2c)
+- [LFS211: Linux Networking and Administration](https://www.credly.com/badges/7d544cbc-639f-4faf-b8c0-5ca18516133b)
+- [OpenJS Node.js Application Developer (JSNAD)](https://www.credly.com/badges/ae2d70bc-0d1f-43e4-b630-943548a3b5ac)
+- [Linux Foundation Certified Systems Administrator (LFCS)](https://www.credly.com/badges/c4937ae9-2fe5-41cf-a054-ad052f78361e)
 
-I have also written a few blog posts on [Dev.to](https://dev.to) related to cloud computing, with AWS as the reference platform:
-
-- [Introduction to OpenStack with MicroStack](https://dev.to/donaldsebleung/introduction-to-openstack-with-microstack-1f5j)
-- [Introduction to Infrastructure as Code with Terraform and Packer](https://dev.to/donaldsebleung/introduction-to-infrastructure-as-code-with-terraform-and-packer-10cl)
-- [Introduction to Kubernetes with Amazon EKS](https://dev.to/donaldsebleung/introduction-to-kubernetes-with-amazon-eks-1nj6)
-- [Introduction to the AWS CLI](https://dev.to/donaldsebleung/introduction-to-the-aws-cli-e6o)
+Feel free to refer to my [LinkedIn](https://www.linkedin.com/in/donaldsebleung/) profile for the full list of professional certifications I have earned.
 
 Here is a list of positions (including internships) I have worked as for at least 1 month over the years:
 
