@@ -4,10 +4,10 @@ I perform IT troubleshooting and consulting duties at work, though deep down I a
 
 - [LFS258: Kubernetes Fundamentals](https://www.credly.com/badges/d9057e25-cba9-428d-9507-13444df7d24c)
 - [ACA Cloud Computing](https://xuecdn2.aliyunedu.net/img_48b78ec5c60e30e5547eb7a3b16d4523.png)
-- [OpenJS Node.js Services Developer (JSNSD)](https://www.credly.com/badges/8cb25f58-4d9b-4511-a535-4021ce7c9c2c)
+- [JSNSD: OpenJS Node.js Services Developer](https://www.credly.com/badges/8cb25f58-4d9b-4511-a535-4021ce7c9c2c)
 - [LFS211: Linux Networking and Administration](https://www.credly.com/badges/7d544cbc-639f-4faf-b8c0-5ca18516133b)
-- [OpenJS Node.js Application Developer (JSNAD)](https://www.credly.com/badges/ae2d70bc-0d1f-43e4-b630-943548a3b5ac)
-- [Linux Foundation Certified Systems Administrator (LFCS)](https://www.credly.com/badges/c4937ae9-2fe5-41cf-a054-ad052f78361e)
+- [JSNAD: OpenJS Node.js Application Developer](https://www.credly.com/badges/ae2d70bc-0d1f-43e4-b630-943548a3b5ac)
+- [LFCS: Linux Foundation Certified Systems Administrator](https://www.credly.com/badges/c4937ae9-2fe5-41cf-a054-ad052f78361e)
 
 Feel free to refer to my [LinkedIn](https://www.linkedin.com/in/donaldsebleung/) profile for the full list of professional certifications I have earned.
 
