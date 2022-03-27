@@ -2,7 +2,7 @@
 
 I perform IT troubleshooting and consulting duties at work, though deep down I am a **cloud, virtualization and open source** enthusiast, backed by the following courses and active certifications:
 
-- [LFS258: Kubernetes Fundamentals](https://www.credly.com/badges/d9057e25-cba9-428d-9507-13444df7d24c)
+- [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/eaaa3375-6beb-402a-a751-f29b8499cd30)
 - [ACA Cloud Computing](https://xuecdn2.aliyunedu.net/img_48b78ec5c60e30e5547eb7a3b16d4523.png)
 - [JSNSD: OpenJS Node.js Services Developer](https://www.credly.com/badges/8cb25f58-4d9b-4511-a535-4021ce7c9c2c)
 - [LFS211: Linux Networking and Administration](https://www.credly.com/badges/7d544cbc-639f-4faf-b8c0-5ca18516133b)
