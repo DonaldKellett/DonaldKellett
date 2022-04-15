@@ -2,6 +2,7 @@
 
 I perform IT troubleshooting and consulting duties at work, though deep down I am a **cloud, virtualization and open source** enthusiast, backed by the following courses and active certifications:
 
+- [LFS241: Monitoring Systems and Services with Prometheus](https://www.credly.com/badges/43795c8f-3710-45e2-8ee0-8b3f76686eed)
 - [CKAD: Certified Kubernetes Application Developer](https://www.credly.com/badges/79459ccf-e0ee-4d83-9bee-35722a5394cd)
 - [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/eaaa3375-6beb-402a-a751-f29b8499cd30)
 - [ACA Cloud Computing](https://xuecdn2.aliyunedu.net/img_48b78ec5c60e30e5547eb7a3b16d4523.png)
