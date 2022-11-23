@@ -2,6 +2,7 @@
 
 I perform IT troubleshooting and consulting duties at work, though deep down I am a **cloud, virtualization and open source** enthusiast, backed by the following courses and active certifications:
 
+- [ACP Cloud Computing](https://xuecdn2.aliyunedu.net/img_4846465a20f8ed1a4df7d2569e337a58.png)
 - [LFS244: Managing Kubernetes Applications with Helm](https://www.credly.com/badges/1662256e-9003-44c3-bc40-4a54907b180a)
 - [LFS243: Service Mesh Fundamentals](https://www.credly.com/badges/cd2aa06c-c1e5-416d-841e-894b0a799fdd)
 - [LFS242: Cloud Native Logging with Fluentd](https://www.credly.com/badges/630f0d0d-112e-4908-a5c3-c349b470e624)
