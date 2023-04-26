@@ -1,22 +1,20 @@
 ### Hi there 👋
 
-I am a specialist in IT consulting employed at [China Resources Enterprise Limited](https://www.cre.com.hk/) focusing on technical implementation and execution. Specifically, my work duties mainly consist of (in approximate decreasing order of importance):
+I am an aspiring cloud and DevOps engineer specializing in Alibaba Cloud, a holder of the following active (as of 2023-04-26) certifications:
 
-- Operations and maintenance of core networking infrastructure
-- Alibaba Cloud security and asset management
-- Linux server administration
-- Automation of repetitive tasks with Python
-
-In my spare time, I moderate the [deepin Forum](https://bbs.deepin.org/) and maintain 18 packages for [Spark Store](https://spark-app.store/).
+- [ACP Cloud Computing](https://xuecdn2.aliyunedu.net/img_4846465a20f8ed1a4df7d2569e337a58.png)
+- [ACA Cloud Computing](https://xuecdn2.aliyunedu.net/img_48b78ec5c60e30e5547eb7a3b16d4523.png)
+- [Certified Kubernetes Administrator \(CKA\)](https://www.credly.com/badges/eaaa3375-6beb-402a-a751-f29b8499cd30)
+- [Certified Kubernetes Application Developer \(CKAD\)](https://www.credly.com/badges/79459ccf-e0ee-4d83-9bee-35722a5394cd)
 
 Here is a list of positions (including internships) I have worked as for at least 1 month over the years:
 
-- China Resources Enterprise Limited (July 2021 - now)
+- China Resources Enterprise Limited (July 2021 - May 2023; 1 year 10 months)
   - Position: Specialist in IT consulting
   - Duties: network operations and maintenance, cloud and Linux administration, Python automation
   - Homepage: https://www.cre.com.hk/
   - Remarks:
-    - Job rotation at Pacific Coffee Hong Kong (November 2022 - April 2023; 6 months)
+    - Job rotation at Pacific Coffee Hong Kong (November 2022 - May 2023; 7 months)
       - Position: IT networking and infrastructure engineer
       - Duties: network operations and maintenance, cloud and Linux administration, Python automation
       - Homepage: https://www.pacificcoffee.com/
