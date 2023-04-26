@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an aspiring cloud and DevOps engineer specializing in Alibaba Cloud, a holder of the following active (as of 2023-04-26) certifications:
+I am an aspiring cloud and DevOps engineer specializing in Alibaba Cloud, a holder of the following active (as of 2023-04-26) certifications (and more):
 
 - [ACP Cloud Computing](https://xuecdn2.aliyunedu.net/img_4846465a20f8ed1a4df7d2569e337a58.png)
 - [ACA Cloud Computing](https://xuecdn2.aliyunedu.net/img_48b78ec5c60e30e5547eb7a3b16d4523.png)
