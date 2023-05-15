@@ -2,6 +2,7 @@
 
 I am an aspiring cloud and DevOps engineer specializing in Alibaba Cloud, a holder of the following active (as of 2023-04-26) certifications (and more):
 
+- [ACA Cloud Native](https://xuecdn2.aliyunedu.net/img_16650483d93b1782b87431cf11e99f5f.jpg)
 - [ACP Cloud Computing](https://xuecdn2.aliyunedu.net/img_4846465a20f8ed1a4df7d2569e337a58.png)
 - [ACA Cloud Computing](https://xuecdn2.aliyunedu.net/img_48b78ec5c60e30e5547eb7a3b16d4523.png)
 - [Certified Kubernetes Administrator \(CKA\)](https://www.credly.com/badges/eaaa3375-6beb-402a-a751-f29b8499cd30)
