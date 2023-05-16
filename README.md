@@ -4,8 +4,8 @@ I am an aspiring cloud and DevOps engineer specializing in Alibaba Cloud, a hold
 
 - [ACA Cloud Native](https://xuecdn2.aliyunedu.net/img_16650483d93b1782b87431cf11e99f5f.jpg)
 - [ACP Cloud Computing](https://xuecdn2.aliyunedu.net/img_4846465a20f8ed1a4df7d2569e337a58.png)
-- [Certified Kubernetes Administrator \(CKA\)](https://www.credly.com/badges/eaaa3375-6beb-402a-a751-f29b8499cd30)
 - [Certified Kubernetes Application Developer \(CKAD\)](https://www.credly.com/badges/79459ccf-e0ee-4d83-9bee-35722a5394cd)
+- [Certified Kubernetes Administrator \(CKA\)](https://www.credly.com/badges/eaaa3375-6beb-402a-a751-f29b8499cd30)
 - [ACA Cloud Computing](https://xuecdn2.aliyunedu.net/img_48b78ec5c60e30e5547eb7a3b16d4523.png)
 
 Here is a list of positions (including internships) I have worked as for at least 1 month over the years:
