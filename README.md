@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I am an aspiring cloud and DevOps engineer specializing in Alibaba Cloud, a holder of the following active (as of 2023-05-15) certifications (and more):
+I am an aspiring cloud and DevOps engineer specializing in Alibaba Cloud, a holder of the following courses and active (as of 2023-05-18) certifications (and more):
 
+- [LFS144x: Introduction to Istio](https://courses.edx.org/certificates/f8d3f69aa8844197871927761bfc2ae7)
 - [ACA Cloud Native](https://xuecdn2.aliyunedu.net/img_16650483d93b1782b87431cf11e99f5f.jpg)
 - [ACP Cloud Computing](https://xuecdn2.aliyunedu.net/img_4846465a20f8ed1a4df7d2569e337a58.png)
 - [Certified Kubernetes Application Developer \(CKAD\)](https://www.credly.com/badges/79459ccf-e0ee-4d83-9bee-35722a5394cd)
