@@ -29,7 +29,7 @@ I am an aspiring Cloud Architect and DevOps Professional specializing in **Aliba
 - Enforced security best practices on 5 Alibaba Cloud ECS CentOS Linux instances via automatic updates and reboots, locking the root account and enforcing public key authentication for SSH login
 - Oversaw the replacement of intranet leased line by HKBN for improving HQ network topology; performed corresponding FW policy and static route migration during off-hours to ensure business continuity
 
-#### China Resources (July 2021 - October 2022; 1 year 3 months)
+#### China Resources Enterprise Limited (July 2021 - October 2022; 1 year 3 months)
 
 Assisted in meeting room setup for videoconferencing, Windows desktop and laptop software installation, Windows and Outlook troubleshooting, printer troubleshooting at Wan Chai HQ office
 
