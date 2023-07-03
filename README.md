@@ -29,6 +29,10 @@ I am an aspiring Cloud Architect and DevOps Professional specializing in **Aliba
 - Enforced security best practices on 5 Alibaba Cloud ECS CentOS Linux instances via automatic updates and reboots, locking the root account and enforcing public key authentication for SSH login
 - Oversaw the replacement of intranet leased line by HKBN for improving HQ network topology; performed corresponding FW policy and static route migration during off-hours to ensure business continuity
 
+#### China Resources (July 2021 - October 2022; 1 year 3 months)
+
+Assisted in meeting room setup for videoconferencing, Windows desktop and laptop software installation, Windows and Outlook troubleshooting, printer troubleshooting
+
 ### Software Developer (Intern) at M-Labs Limited (May 2020 - November 2020; 6 months)
 
 2020 Q4:
@@ -41,9 +45,7 @@ I am an aspiring Cloud Architect and DevOps Professional specializing in **Aliba
 
 ### Teaching Assistant (Intern) at BSD Education (formerly BSD Academy) (August 2016; 2 weeks)
 
-2016 Q3:
-
-- Assisted in teaching duties for 2 classes of students aged 8-10 on frontend development with HTML5+CSS3+JS
+Assisted in teaching duties for 2 classes of students aged 8-10 on frontend development with HTML5+CSS3+JS
 
 ## Education
 
