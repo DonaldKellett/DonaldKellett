@@ -1,15 +1,10 @@
 ### Hi there 👋
 
-I am an aspiring Cloud Native professional specializing in Alibaba Cloud, a holder of the following courses and active (as of 2023-05-30) certifications (and more):
+I am an aspiring Cloud Architect and DevOps Professional specializing in:
 
-- [ACP Container Service](https://xuecdn2.aliyunedu.net/img_59375c77ec0159168e867107963cb662.jpg)
-- [LFS156x: Introduction to Kubernetes on Edge with K3s](https://courses.edx.org/certificates/0b3a38e1c8e24c799a2f506868273094)
-- [LFS144x: Introduction to Istio](https://courses.edx.org/certificates/f8d3f69aa8844197871927761bfc2ae7)
-- [ACA Cloud Native](https://xuecdn2.aliyunedu.net/img_16650483d93b1782b87431cf11e99f5f.jpg)
-- [ACP Cloud Computing](https://xuecdn2.aliyunedu.net/img_4846465a20f8ed1a4df7d2569e337a58.png)
-- [Certified Kubernetes Application Developer \(CKAD\)](https://www.credly.com/badges/79459ccf-e0ee-4d83-9bee-35722a5394cd)
-- [Certified Kubernetes Administrator \(CKA\)](https://www.credly.com/badges/eaaa3375-6beb-402a-a751-f29b8499cd30)
-- [ACA Cloud Computing](https://xuecdn2.aliyunedu.net/img_48b78ec5c60e30e5547eb7a3b16d4523.png)
+- Alibaba Cloud: [ACP Container Service](https://xuecdn2.aliyunedu.net/img_59375c77ec0159168e867107963cb662.jpg), [ACP Cloud Computing](https://xuecdn2.aliyunedu.net/img_4846465a20f8ed1a4df7d2569e337a58.png)
+- Kubernetes: [CKAD](https://www.credly.com/badges/79459ccf-e0ee-4d83-9bee-35722a5394cd), [CKA](https://www.credly.com/badges/eaaa3375-6beb-402a-a751-f29b8499cd30)
+- Linux: LFCS (expired July 2023)
 
 Here is a list of positions (including internships) I have worked as for at least 1 month over the years:
 
