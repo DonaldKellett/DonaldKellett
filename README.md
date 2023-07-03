@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an aspiring Cloud Architect and DevOps Professional specializing in:
+I am an aspiring Cloud Architect and DevOps Professional specializing in **Alibaba Cloud**, **Kubernetes** and **Linux**:
 
 - Alibaba Cloud: [ACP Container Service](https://xuecdn2.aliyunedu.net/img_59375c77ec0159168e867107963cb662.jpg), [ACP Cloud Computing](https://xuecdn2.aliyunedu.net/img_4846465a20f8ed1a4df7d2569e337a58.png)
 - Kubernetes: [CKAD](https://www.credly.com/badges/79459ccf-e0ee-4d83-9bee-35722a5394cd), [CKA](https://www.credly.com/badges/eaaa3375-6beb-402a-a751-f29b8499cd30)
