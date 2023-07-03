@@ -14,6 +14,7 @@ I am an aspiring Cloud Architect and DevOps Professional specializing in **Aliba
 
 2023 Q2:
 
+- Provisioned and secured Windows and Linux infrastructure for Power BI system on Alibaba Cloud ECS
 - Provisioned Nagios for monitoring VPN connectivity between Sheung Wan headquarters (HQ) and 133 branch stores on openEuler 22.03 LTS server running atop VMware ESXi 6.x
 
 2023 Q1:
@@ -25,7 +26,7 @@ I am an aspiring Cloud Architect and DevOps Professional specializing in **Aliba
 2022 Q4:
 
 - Enforced security best practices on Alibaba Cloud account via creation of RAM roles and accounts, MFA enablement and enforcement
-- Enforced security best practices on 7 Alibaba Cloud ECS CentOS Linux instances via automatic updates and reboots, locking the root account and enforcing public key authentication for SSH login
+- Enforced security best practices on 5 Alibaba Cloud ECS CentOS Linux instances via automatic updates and reboots, locking the root account and enforcing public key authentication for SSH login
 - Oversaw the replacement of intranet leased line by HKBN for improving HQ network topology; performed corresponding FW policy and static route migration during off-hours to ensure business continuity
 
 ### Software Developer (Intern) at M-Labs Limited (May 2020 - November 2020; 6 months)
