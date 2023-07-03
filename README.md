@@ -19,7 +19,7 @@ I am an aspiring Cloud Architect and DevOps Professional specializing in **Aliba
 2023 Q1:
 
 - Oversaw the design and technical execution of HQ firewall (FW) replacement (Fortinet --> H3C) action plan proposed by Titanicom; performed technical validation tests afterwards during off-hours to ensure business continuity
-- Provisioned Ansible for automated DNS client configuration and antivirus replacement (TrendMicro --> UES) across 50+ HQ and Yau Tong BLU kitchen office workstations on openEuler 22.03 LTS server running atop VMware ESXi 6.x
+- Provisioned Ansible for automated DNS client configuration and antivirus replacement (TrendMicro --> UES) across 50+ HQ and Yau Tong BLU kitchen Windows workstations on openEuler 22.03 LTS server running atop VMware ESXi 6.x
 - Provisioned BIND9 forwarding DNS server for resolving longstanding DNS resolution issues involving China Resources' intranet domain names on openEuler 22.03 LTS server running atop VMware ESXi 6.x
 
 2022 Q4:
