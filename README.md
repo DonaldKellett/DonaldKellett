@@ -53,3 +53,7 @@ BEng. Computer Science and Engineering (4Y), The Hong Kong University of Science
 - Appointed community moderator on [deepin Forums](https://bbs.deepin.org/user/287133) for 2023 Q2 and 2023 Q3
 - Submitted multiple pull requests to [linuxdeepin](https://github.com/linuxdeepin) in 2022 Q4, 3 of which were merged
 - I write technical articles on [CSDN](https://blog.csdn.net/donaldsebleung) and [dev.to](https://dev.to/donaldsebleung)
+
+## Contact
+
+Please refer to my CV for contact details
