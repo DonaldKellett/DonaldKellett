@@ -31,7 +31,7 @@ I am an aspiring Cloud Architect and DevOps Professional specializing in **Aliba
 
 #### China Resources (July 2021 - October 2022; 1 year 3 months)
 
-Assisted in meeting room setup for videoconferencing, Windows desktop and laptop software installation, Windows and Outlook troubleshooting, printer troubleshooting
+Assisted in meeting room setup for videoconferencing, Windows desktop and laptop software installation, Windows and Outlook troubleshooting, printer troubleshooting at Wan Chai HQ office
 
 ### Software Developer (Intern) at M-Labs Limited (May 2020 - November 2020; 6 months)
 
