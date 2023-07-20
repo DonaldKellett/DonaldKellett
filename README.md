@@ -10,7 +10,9 @@ I am a Cloud Technical Specialist at Enfinity Solutions Limited specializing in 
 
 ### Cloud Technical Specialist at Enfinity Solutions Limited (July 2023 - now)
 
-Assisted in the design, implementation and maintenance of cloud-based solutions
+2023 Q3:
+
+- Automated the lifecycle of Alibaba Cloud ECS instances with Function Compute
 
 ### Specialist in IT consulting at China Resources Enterprise Limited (July 2021 - May 2023; 1 year 10 months)
 
