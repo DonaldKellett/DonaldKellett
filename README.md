@@ -12,7 +12,7 @@ I am a Cloud Technical Specialist at Enfinity Solutions Limited specializing in 
 
 2023 Q3:
 
-- Co-implemented monitoring and alerting solution across AWS and Azure with Amazon CloudWatch for a client
+- Co-implemented monitoring and alerting solution across AWS and Azure with Amazon CloudWatch and SNS for a client
 - Automated the lifecycle of Alibaba Cloud ECS instances with Function Compute
 
 ### Specialist in IT consulting at China Resources Enterprise Limited (July 2021 - May 2023; 1 year 10 months)
