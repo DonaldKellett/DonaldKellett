@@ -12,6 +12,7 @@ I am a Cloud Technical Specialist at Enfinity Solutions Limited specializing in 
 
 2023 Q3:
 
+- Provisioned RKE2 cluster in HA mode with Istio and MetalLB, Grafana and Prometheus for monitoring and observability
 - Co-implemented monitoring and alerting solution across AWS and Azure with Amazon CloudWatch and SNS for a client
 - Automated the lifecycle of Alibaba Cloud ECS instances with Function Compute
 
