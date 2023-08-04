@@ -12,6 +12,7 @@ I am a Cloud Technical Specialist at Enfinity Solutions Limited specializing in 
 
 2023 Q3:
 
+- Implemented CI/CD pipeline for AWS Lambda with automated unit tests and image build for a client
 - Deployed Gitea to Kubernetes with Actions enabled to accelerate internal GitOps collaboration
 - Provisioned RKE2 cluster in HA mode with Istio and MetalLB, Grafana and Prometheus for monitoring and observability
 - Co-implemented monitoring and alerting solution across AWS and Azure with Amazon CloudWatch and SNS for a client
