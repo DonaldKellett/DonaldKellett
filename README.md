@@ -12,6 +12,8 @@ I am a Cloud Technical Specialist at Enfinity Solutions Limited specializing in 
 
 2023 Q3:
 
+- Migrated internal VCS from Gitea to GitLab for a fully standardized DevSecOps experience
+- Migrated RKE2 cluster to CIS-1.23 compliant hardened profile for enhanced cluster-level security and compliance
 - Implemented DevSecOps pipeline for AWS Lambda with automated unit tests, image build and image scan for a client
 - Deployed Gitea to Kubernetes with Actions enabled to accelerate internal GitOps collaboration
 - Provisioned RKE2 cluster in HA mode with Istio and MetalLB, Grafana and Prometheus for monitoring and observability
