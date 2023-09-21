@@ -12,7 +12,7 @@ I am a Cloud Technical Specialist at Enfinity Solutions Limited specializing in 
 
 2023 Q3:
 
-- Provisioned AWS CodePipeline and related infrastructure for CI/CD pipelines with Terraform for a client
+- Provisioned AWS CodePipeline and surrounding infrastructure for CI/CD pipelines with Terraform for a client
 - Integrated Active Directory with GitLab for centralized identity management
 - Migrated internal VCS from Gitea to GitLab for a fully standardized DevSecOps experience
 - Migrated RKE2 cluster to CIS-1.23 compliant hardened profile for enhanced cluster-level security and compliance
