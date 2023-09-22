@@ -12,12 +12,13 @@ I am a Cloud Technical Specialist at Enfinity Solutions Limited specializing in 
 
 2023 Q3:
 
+- Bootstrapped Flux v2 to on-premises RKE2 cluster to enable GitOps workflows
 - Provisioned AWS CodePipeline and surrounding infrastructure for CI/CD pipelines with Terraform for a client
 - Integrated Active Directory with GitLab for centralized identity management
 - Migrated internal VCS from Gitea to GitLab for a fully standardized DevSecOps experience
 - Migrated RKE2 cluster to CIS-1.23 compliant hardened profile for enhanced cluster-level security and compliance
 - Implemented DevSecOps pipeline for AWS Lambda with automated unit tests, image build and image scan for a client
-- Deployed Gitea to Kubernetes with Actions enabled to accelerate internal GitOps collaboration
+- Deployed Gitea to Kubernetes with Actions enabled to accelerate internal DevOps collaboration
 - Provisioned RKE2 cluster in HA mode with Istio and MetalLB, Grafana and Prometheus for monitoring and observability
 - Co-implemented monitoring and alerting solution across AWS and Azure with Amazon CloudWatch and SNS for a client
 - Automated the lifecycle of Alibaba Cloud ECS instances with Function Compute
