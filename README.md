@@ -12,7 +12,7 @@ I am a Cloud Technical Specialist at Enfinity Solutions Limited specializing in 
 
 2023 Q3:
 
-- Bootstrapped Flux v2 to on-premises RKE2 cluster to enable GitOps workflows
+- Bootstrapped Flux v2 to on-premises RKE2 cluster for GitOps, automated Helm release management and upgrades
 - Provisioned AWS CodePipeline and surrounding infrastructure for CI/CD pipelines with Terraform for a client
 - Integrated Active Directory with GitLab for centralized identity management
 - Migrated internal VCS from Gitea to GitLab for a fully standardized DevSecOps experience
