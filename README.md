@@ -12,6 +12,7 @@ I am a Cloud Technical Specialist at Enfinity Solutions Limited specializing in 
 
 2023 Q3:
 
+- Integrated Flux v2 with Microsoft Teams for real-time alerts on cluster events
 - Deployed MinIO and ScyllaDB on-premises for local cloud-native application development and testing
 - Bootstrapped Flux v2 to on-premises RKE2 cluster for GitOps, automated Helm release management and upgrades
 - Provisioned AWS CodePipeline and surrounding infrastructure for CI/CD pipelines with Terraform for a client
