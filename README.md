@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-I am a Cloud Technical Specialist at Enfinity Solutions Limited specializing in **Alibaba Cloud**, **Kubernetes** and **Linux**:
+I am currently a Cloud Technical Specialist at Enfinity Solutions Limited, with my current role focused on:
 
-- Alibaba Cloud: [ACP Container Service](https://xuecdn2.aliyunedu.net/img_59375c77ec0159168e867107963cb662.jpg), [ACP Cloud Computing](https://xuecdn2.aliyunedu.net/img_4846465a20f8ed1a4df7d2569e337a58.png)
-- Kubernetes: [CKAD](https://www.credly.com/badges/79459ccf-e0ee-4d83-9bee-35722a5394cd), [CKA](https://www.credly.com/badges/eaaa3375-6beb-402a-a751-f29b8499cd30)
-- Linux: [LFCS](https://www.credly.com/badges/c4937ae9-2fe5-41cf-a054-ad052f78361e) (expired July 2023)
+- Architecting and delivering cloud-native solutions to our customers on **AWS** and **Alibaba Cloud**, and
+- Daily operations and maintenance of our on-premises **GitLab** and **Kubernetes** infrastructure
 
 ## Work Experience
 
