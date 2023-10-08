@@ -7,59 +7,73 @@ I am currently a Cloud Technical Specialist at Enfinity Solutions Limited, with 
 
 ## Work Experience
 
-### Cloud Technical Specialist at Enfinity Solutions Limited (July 2023 - now)
+### Cloud Technical Specialist at Enfinity Solutions Limited (2023/07-present)
 
-2023 Q3:
+#### GitLab EE 16.x installation and tuning (2023/07-2023/09; 3 months)
 
-- Integrated Flux v2 with Microsoft Teams for real-time alerts on cluster events
-- Deployed MinIO and ScyllaDB on-premises for local cloud-native application development and testing
-- Bootstrapped Flux v2 to on-premises RKE2 cluster for GitOps, automated Helm release management and upgrades
-- Provisioned AWS CodePipeline and surrounding infrastructure for CI/CD pipelines with Terraform for a client
-- Integrated Active Directory with GitLab for centralized identity management
-- Migrated internal VCS from Gitea to GitLab for a fully standardized DevSecOps experience
-- Migrated RKE2 cluster to CIS-1.23 compliant hardened profile for enhanced cluster-level security and compliance
-- Implemented DevSecOps pipeline for AWS Lambda with automated unit tests, image build and image scan for a client
-- Deployed Gitea to Kubernetes with Actions enabled to accelerate internal DevOps collaboration
-- Provisioned RKE2 cluster in HA mode with Istio and MetalLB, Grafana and Prometheus for monitoring and observability
-- Co-implemented monitoring and alerting solution across AWS and Azure with Amazon CloudWatch and SNS for a client
-- Automated the lifecycle of Alibaba Cloud ECS instances with Function Compute
+Deployed GitLab EE 16.x to on-premises Rancher RKE2 cluster to accelerate software delivery and enable DevOps, DevSecOps and GitOps workflows, with:
 
-### Specialist in IT consulting at China Resources Enterprise Limited (July 2021 - May 2023; 1 year 10 months)
+- Rancher RKE2 deployed in HA mode (3 server nodes) for fault tolerance
+- Rancher RKE2 deployed with CIS-1.23 profile enabled for security hardening
+- Prometheus and Grafana for monitoring, observability and email alerting
+- Flux v2 for cluster-wide GitOps management with Microsoft Teams notifications and alerting
 
-#### Job rotation at Pacific Coffee (Hong Kong and Overseas) (November 2022 - May 2023; 7 months)
+##### Business impact
 
-2023 Q2:
+Enabled rapid prototyping, drastically reduced time to production and standardized software delivery processes with a security-first approach
 
-- Provisioned and secured Windows and Linux infrastructure for Power BI system on Alibaba Cloud ECS
-- Provisioned Nagios for monitoring VPN connectivity between Sheung Wan headquarters (HQ) and 133 branch stores on openEuler 22.03 LTS server running atop VMware ESXi 6.x
+#### Multi-cloud monitoring, observability and alerting (2023/08; 1 month)
 
-2023 Q1:
+Implemented dashboards exporting instance and host-level metrics from 30+ cloud VMs across AWS and Azure for a major airline company, with:
 
-- Oversaw the design and technical execution of HQ firewall (FW) replacement (Fortinet --> H3C) action plan proposed by Titanicom; performed technical validation tests afterwards during off-hours to ensure business continuity
-- Provisioned Ansible for automated DNS client configuration and antivirus replacement (TrendMicro --> UES) across 50+ HQ and Yau Tong BLU kitchen Windows workstations on openEuler 22.03 LTS server running atop VMware ESXi 6.x
-- Provisioned BIND9 for resolving longstanding DNS resolution issues involving China Resources' intranet domain names on openEuler 22.03 LTS server running atop VMware ESXi 6.x
+- Amazon CloudWatch for monitoring and observability
+- Amazon SNS for email alerting on storage-related events
+- AWS Lambda with a container-based deployment model for recurring critical alarms
+- GitLab CI for an automated DevSecOps workflow involving multiple pipelines:
+    - Terraform pipeline with GitLab-managed remote backend and manual apply step for semi-automated provisioning and management of AWS infrastructure (CloudWatch, SNS)
+    - Container-oriented pipeline with unit tests, SAST, image build, Trivy scan and push to Amazon ECR for automated deployment and quality assurance of Lambda-based microservices
 
-2022 Q4:
+##### Business impact
 
-- Enforced security best practices on Alibaba Cloud account via creation of RAM users, groups and roles; MFA enablement and enforcement
-- Enforced security best practices on 5 Alibaba Cloud ECS CentOS Linux instances via automatic updates and reboots, locking the root account and enforcing public key authentication for SSH login
-- Oversaw the replacement of intranet leased line by HKBN for improving HQ network topology; performed corresponding FW policy and static route migration during off-hours to ensure business continuity
+Real-time visibility into AWS and Azure infrastructure, improving SLA and reducing incident response times
 
-#### China Resources Enterprise Limited (July 2021 - October 2022; 1 year 3 months)
+### Specialist in IT consulting at China Resources Enterprise Limited (2021/07-2023/05; 1 year 10 months)
 
 Assisted in meeting room setup for videoconferencing, Windows desktop and laptop software installation, Windows and Outlook troubleshooting, printer troubleshooting at Wan Chai HQ office
 
-### Software Developer (Intern) at M-Labs Limited (May 2020 - November 2020; 6 months)
+#### FortiGate to H3C HQ firewall replacement (2023/01-2023/03; 3 months)
 
-2020 Q4:
+Oversaw the technical execution of the HQ firewall replacement from FortiGate to H3C for a BU in the catering industry, jointly devised and executed an appropriate action plan with a Chinese network service provider during off-hours to minimize business disruption and ensure business continuity
 
-- Implemented sorting network for ARTIQ control system and formally verified its correctness via nMigen
+##### Business impact
 
-2020 Q3:
+Improved the network security of the affected BU by retiring an EOL firewall product and contributed to the enforcement of Chinese SOE compliance requirements
 
-- Ported Minerva RISC-V (RV32M) soft core from Verilog to nMigen and formally verified its correctness
+#### Leased line replacement (2022/10; 1 month)
 
-### Teaching Assistant (Intern) at BSD Education (formerly BSD Academy) (August 2016; 2 weeks)
+Oversaw the replacement of a leased line affecting the HQ network topology for a BU in the catering industry, devised and executed an appropriate action plan modifying the HQ FortiGate firewall configuration during off-hours to minimize business disruption and ensure business continuity
+
+##### Business impact
+
+Optimized the network topology for the affected BU, reducing network latency and error rates
+
+### Software Developer (Intern) at M-Labs Limited (2020/06-2020/11; 6 months)
+
+#### Implementing sorting network for ARTIQ control system (2020/09-2020/11; 3 months)
+
+Implemented the sorting network for the ARTIQ control system used in physics experiments, leveraging:
+
+- nMigen for its Python DSL
+- Yosys / SymbiYosys for formal verification
+
+#### Porting Minerva RISC-V soft core from Verilog to nMigen (2020/06-2020/08; 3 months)
+
+Ported the Minerva RISC-V (RV32M) soft core from Verilog to nMigen, leveraging:
+
+- Python for its powerful abstractions and language features
+- Automated SMT solvers (Yosys, SymbiYosys) for verifying the functional correctness of the FPGA core
+
+### Teaching Assistant (Intern) at BSD Education (formerly BSD Academy) (2016/08; 2 weeks)
 
 Assisted in teaching duties for 2 classes of students aged 8-10 on frontend development with HTML5+CSS3+JS
 
