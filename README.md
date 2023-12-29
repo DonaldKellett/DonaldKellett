@@ -95,10 +95,11 @@ BEng. Computer Science and Engineering (4Y), The Hong Kong University of Science
 
 ## Community
 
-- Appointed community moderator on [deepin Forums](https://bbs.deepin.org/user/287133) for 2023 Q2 and 2023 Q3
-- Submitted multiple pull requests to [linuxdeepin](https://github.com/linuxdeepin) in 2022 Q4, 3 merged
-- I write technical articles on [CSDN](https://blog.csdn.net/donaldsebleung) and [dev.to](https://dev.to/donaldsebleung)
+- Blogging on DevOps practices and tools on [donaldsebleung.com](https://www.donaldsebleung.com/)
+- PR contributor to [CNCF Sandbox](https://www.cncf.io/sandbox-projects/) and [Linux Foundation](https://www.linuxfoundation.org/) projects
+- Former community moderator on [deepin Forums](https://bbs.deepin.org/user/287133) \(2023 Q2-Q3\)
+- PR contributor to [deepin GNU/Linux](https://github.com/linuxdeepin) projects
 
 ## Contact
 
-Please refer to my CV for contact details
+Please kindly refer to my profile and CV for details.
