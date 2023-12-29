@@ -9,6 +9,18 @@ I am currently a Cloud Technical Specialist at Enfinity Solutions Limited, with 
 
 ### Cloud Technical Specialist at Enfinity Solutions Limited (2023/07-present)
 
+#### Kasten K10 DR planning and evaluation (2023/12; 1 month)
+
+Drafted a comprehensive DR handbook for on-premises GitLab EE 16.x installation and supporting Rancher RKE2 infrastructure leveraging Kasten K10 for cross-cluster application-level backup and recovery, followed up by an initial DR test drill on AWS leveraging an automation stack for efficiency, reproducibility and standardization, developed in-house with:
+
+- OpenTofu for provisioning AWS resources mirroring the on-premises infrastructure
+- Ansible for provisioning a fresh Rancher RKE2 cluster in a 3-server HA control plane setup with CIS hardening on provisioned infrastructure
+- GitLab CI with manual approval step for E2E validation of the complete OpenTofu + Ansible automation stack
+
+##### Business impact
+
+Confirmed the feasibility of performing the procedures outlined in the DR handbook and uncovered fundamental limitations of a lift-and-shift recovery of on-premises Rancher RKE2 infrastructure to AWS, laying the groundwork for performing a complete DR drill going forward and ensuring business continuity in the event of a complete infrastructure failure.
+
 #### GitLab EE 16.x installation and tuning (2023/07-2023/09; 3 months)
 
 Deployed GitLab EE 16.x to on-premises Rancher RKE2 cluster to accelerate software delivery and enable DevOps, DevSecOps and GitOps workflows, with:
