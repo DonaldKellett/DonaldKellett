@@ -9,17 +9,29 @@ I am currently a Cloud Technical Specialist at Enfinity Solutions Limited, with 
 
 ### Cloud Technical Specialist at Enfinity Solutions Limited (2023/07-present)
 
+#### Kasten K10 DR drill (2024/01; 1 month)
+
+Performed a successful on-premises DR drill for GitLab EE 16.x and supporting Rancher RKE2 infrastructure with Kasten K10 for cross-cluster application level backup and disaster recovery, with:
+
+- Ansible for automated provisioning of new Rancher RKE2 cluster in a 3-server HA control plane setup with CIS-1.23 hardening
+- A confirmed RPO of 48 hours based on daily Kasten K10 backup
+- A confirmed RTO of 24 hours based on the actual DR drill duration for complete service resumption of GitLab EE 16.x (and other supporting services)
+
+##### Business impact
+
+Confirmed that the DR handbook procedure is fully functional and actionable, ensuring business continuity in the event of a complete infrastructure failure
+
 #### Kasten K10 DR planning and evaluation (2023/12; 1 month)
 
 Drafted a comprehensive DR handbook for on-premises GitLab EE 16.x installation and supporting Rancher RKE2 infrastructure leveraging Kasten K10 for cross-cluster application-level backup and recovery, followed up by an initial DR test drill on AWS leveraging an automation stack for efficiency, reproducibility and standardization, developed in-house with:
 
 - OpenTofu for provisioning AWS resources mirroring the on-premises infrastructure
-- Ansible for provisioning a fresh Rancher RKE2 cluster in a 3-server HA control plane setup with CIS hardening on provisioned infrastructure
+- Ansible for provisioning a fresh Rancher RKE2 cluster in a 3-server HA control plane setup with CIS-1.23 hardening on provisioned infrastructure
 - GitLab CI with manual approval step for E2E validation of the complete OpenTofu + Ansible automation stack
 
 ##### Business impact
 
-Confirmed the feasibility of performing the procedures outlined in the DR handbook and uncovered fundamental limitations of a lift-and-shift recovery of on-premises Rancher RKE2 infrastructure to AWS, laying the groundwork for performing a complete DR drill going forward and ensuring business continuity in the event of a complete infrastructure failure.
+Confirmed the feasibility of performing the procedures outlined in the DR handbook and uncovered fundamental limitations of a lift-and-shift recovery of on-premises Rancher RKE2 infrastructure to AWS, laying the groundwork for performing a complete DR drill going forward and ensuring business continuity in the event of a complete infrastructure failure
 
 #### GitLab EE 16.x installation and tuning (2023/07-2023/09; 3 months)
 
