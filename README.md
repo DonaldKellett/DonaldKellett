@@ -5,6 +5,10 @@ I am currently a Cloud Technical Specialist at Enfinity Solutions Limited, with 
 - Architecting and delivering cloud-native solutions to our customers on **AWS** and **Alibaba Cloud**, and
 - Daily operations and maintenance of our on-premises **GitLab** and **Kubernetes** infrastructure
 
+In my spare time, I write blog posts on DevOps practices and tools on my personal website: [donaldsebleung.com](https://www.donaldsebleung.com/)
+
+_Subscribe: [![RSS](https://www.donaldsebleung.com/assets/images/rss-logo-32x32.png)](https://www.donaldsebleung.com/feed/rss) [![Atom](https://www.donaldsebleung.com/assets/images/atom-logo-32x32.png)](https://www.donaldsebleung.com/feed/atom)_
+
 ## Work Experience
 
 ### Cloud Technical Specialist at Enfinity Solutions Limited (2023/07-present)
