@@ -7,7 +7,7 @@ I am currently a Cloud Technical Specialist at Enfinity Solutions Limited, with 
 
 In my spare time, I write blog posts on DevOps practices and tools on my personal website: [donaldsebleung.com](https://www.donaldsebleung.com/)
 
-_Subscribe: [![RSS](https://www.donaldsebleung.com/assets/images/rss-logo-32x32.png)](https://www.donaldsebleung.com/feed/rss) [![Atom](https://www.donaldsebleung.com/assets/images/atom-logo-32x32.png)](https://www.donaldsebleung.com/feed/atom)_
+_Subscribe: [![RSS](https://www.donaldsebleung.com/assets/images/rss-logo-32x32.png)](https://www.donaldsebleung.com/feed/rss) [![Atom](https://www.donaldsebleung.com/assets/images/atom-logo-32x32.png)](https://www.donaldsebleung.com/feed/atom) [![\[Valid RSS\]](https://www.donaldsebleung.com/assets/images/valid-rss-rogers.png)](https://validator.w3.org/feed/check.cgi?url=https%3A%2F%2Fwww.donaldsebleung.com%2Ffeed%2Frss) [![\[Valid Atom 1.0\]](https://www.donaldsebleung.com/assets/images/valid-atom.png)](https://validator.w3.org/feed/check.cgi?url=https%3A%2F%2Fwww.donaldsebleung.com%2Ffeed%2Fatom)_
 
 ## Work Experience
 
