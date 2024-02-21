@@ -13,6 +13,14 @@ _Subscribe: [![RSS](https://www.donaldsebleung.com/assets/images/rss-logo-32x32.
 
 ### Cloud Technical Specialist at Enfinity Solutions Limited (2023/07-present)
 
+#### Rancher RKE2 OIDC integration with Dex (2024/02; 1 month)
+
+Implemented a centralized identity management solution backed by Active Directory for on-premises Rancher RKE2 cluster, leveraging Dex as the OIDC connector
+
+##### Business impact
+
+Consolidated authN + authZ under a single umbrella across on-premises IT infrastructure with Active Directory as the sole IdP and single source of truth, ensuring the scalability of access management for on-premises resources in the long term
+
 #### Kasten K10 DR drill (2024/01; 1 month)
 
 Performed a successful on-premises DR drill for GitLab EE 16.x and supporting Rancher RKE2 infrastructure with Kasten K10 for cross-cluster application level backup and disaster recovery, with:
