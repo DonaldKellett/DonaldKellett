@@ -13,6 +13,14 @@ _Subscribe: [![RSS](https://www.donaldsebleung.com/assets/images/rss-logo-32x32.
 
 ### Cloud Technical Specialist at Enfinity Solutions Limited (2023/07-present)
 
+#### Terraform migration to OpenTofu (2024/05; 1 month)
+
+Performed a successful migration of all existing internal and customer-owned Terraform IaC projects to OpenTofu following the officially supported procedure outlined in the OpenTofu documentation, for a total of 8 projects
+
+##### Business impact
+
+Eliminated the potential legal risks of managing internal and customer-owned infrastructure with proprietary tooling, ensuring the sustainability of affected IaC projects in the long run
+
 #### Rancher RKE2 OIDC integration with Dex (2024/02; 1 month)
 
 Implemented a centralized identity management solution backed by Active Directory for on-premises Rancher RKE2 cluster, leveraging Dex as the OIDC connector
