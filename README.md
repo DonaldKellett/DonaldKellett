@@ -6,8 +6,8 @@ In my current role as a Cloud Technical Specialist at [Enfinity Solutions](https
 
 In my spare time, I upskill by taking various online courses and certifications. For example, I am:
 
+- CKS certified
 - Microsoft certified \(Azure Administrator Associate\)
-- Former CKA + CKAD certified \(expired\)
 - Various IT certifications
 
 See my [LinkedIn](https://linkedin.com/in/donaldsebleung) profile for details.
