@@ -20,7 +20,7 @@ _Subscribe: [![RSS](https://www.donaldsebleung.com/assets/images/rss-logo-32x32.
 
 Various projects involving the proposal, architecture, design and ongoing maintenance \(managed services\) of IT infrastructure with a focus on backup, DR and ransomware protection. Some notable products and services involved include:
 
-- SUSE Virtualization \(Harvester\)
+- SUSE Rancher Prime, Observability and Virtualization \(Harvester\)
 - Proxmox Virtual Environment
 - Veeam Kasten for Kubernetes
 - Veeam Backup for AWS
