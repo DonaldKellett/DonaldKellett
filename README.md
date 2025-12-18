@@ -6,7 +6,7 @@ In my current role as a Cloud Technical Specialist at [Enfinity Solutions](https
 
 In my spare time, I upskill by taking various online courses and certifications. For example, I am:
 
-- 4x OpenShift certified
+- 5x OpenShift certified
 - CKS certified
 - Various IT certifications
 
