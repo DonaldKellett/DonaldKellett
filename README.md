@@ -4,11 +4,7 @@ I am an engineer with 4 years of IT experience specialized in delivering Linux a
 
 In my current role as a Cloud Technical Specialist at [Enfinity Solutions](https://www.enfinity.com.hk/), a leading SI firm and reseller based in Hong Kong, we propose, architect, deliver and maintain infrastructure solutions for our customers with robust backup and DR planning and execution. Our solutions span across public, private and hybrid cloud; across containers, VMs and bare metal; across countless sectors and industries. With data protection built into our solutions from day 1, our customers can achieve peace of mind knowing that their critical business data is in safe hands and resilient against ransomware disasters.
 
-In my spare time, I upskill by taking various online courses and certifications. For example, I am:
-
-- RHCOA certified
-- CKS certified
-- Various IT certifications
+In my spare time, I enjoy tinkering with my [OrangePi AIpro \(20T\)](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-AIpro%2820t%29.html) development board and staying updated on the latest advancements in AI/ML and information technology.
 
 See my [LinkedIn](https://linkedin.com/in/donaldsebleung) profile for details.
 
